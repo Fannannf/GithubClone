@@ -5,7 +5,6 @@
 ## Description
 This Android application is a clone of the GitHub mobile app, built using Kotlin and Android Studio. It provides users with features to explore repositories, view user profiles, search for repositories, and search for users.
 
-## UI 
 
 
 ## Features
